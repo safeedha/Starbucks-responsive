@@ -1,0 +1,116 @@
+#logo
+{
+    width: 60px;
+}
+#map
+{
+    width: 15px;
+}
+
+.image{
+   width:100%;
+   height: auto; 
+}
+.per{
+   font-size:4em;
+   font-weight: 500;
+   line-height: 1;
+}
+.sec1{
+    background-color: #9e2240;
+}
+.say{
+    font-size: 2em;
+    font-weight: 400;
+}
+.but {
+
+ background-color:  #9e2240;
+ color: white;
+ font-weight: 700;
+ border: 1px solid white;
+  width:120px;
+    border-top-left-radius: 20px; /* Only round the left top */
+    border-top-right-radius: 20px; /* Only round the right top */
+    border-bottom-left-radius: 20px; /* Only round the left bottom */
+    border-bottom-right-radius: 20px; 
+ }
+.but:hover{
+    background-color:#611125; 
+}
+.sec2{
+    background-color: #006241;;
+}
+.btn_1
+{
+    background-color: rgb(0, 98,65);
+    
+}
+.say1{
+    font-weight: 500;
+    font-size: 1em;
+    line-height:2;
+}
+
+.sec5{
+    background-color: #007179;;
+}
+.sec-6{
+    background-color: #ffbe9e;
+}
+.per1{
+    color:#1e3932;
+    font-size: 3em;
+    font-weight: 700;
+}
+.btn-6{
+  border-color:#1e3932;
+}
+.sec7{
+    background-color: #f2f0eb;
+}
+.per-7{
+
+    color:#1e3932;
+    font-size: 3em;
+    font-weight: 700;
+
+}
+.say-7{
+    color:#1e3932;
+    font-size: 1em;
+    font-weight: 400; 
+}
+.btn-7{
+    border-color: #1e3932;
+    color: #1e3932;
+    border-style:solid ;
+    background-color: #ffbe9e;
+}
+.para{
+    color:#1e3932;
+    line-height:1;
+    font-size: small; 
+    font-weight: 500;
+
+}
+.foot{
+    line-height:1;
+}
+
+.text-color{
+    color:rgb(110, 105, 105)
+
+}
+.text-color:hover{
+    color:black
+}
+.footer{
+  font-weight:500;
+}
+.footer:hover{
+    text-decoration: underline;
+}
+.foot-er{
+    color: rgb(127, 121, 121);
+}
